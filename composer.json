@@ -1,5 +1,5 @@
 {
-  "name": "namshi/cuzzle",
+  "name": "mrnaghibi/cuzzle",
   "description": "Get the cURL shell command from a Guzzle request",
   "require": {
     "php": ">=7.3",
